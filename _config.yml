@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew H. Palmer"
-  avatar           : "files/profile.jpg"
+  avatar           : "profile.jpg"
   bio              : "Social Robotics Researcher at UNR"
   location         : "Reno, NV"
   employer         : "University of Nevada, Reno"
