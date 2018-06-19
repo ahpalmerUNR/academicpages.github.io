@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "\"WELCOME TO THE WORLD OF TOMORROW!\" &#013; \"Shut up, Terry.\" --Futurama"
+title: "\"WELCOME TO THE WORLD OF TOMORROW!\" " 
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+\"Shut up, Terry.\" --Futurama
+===
 
 
 
