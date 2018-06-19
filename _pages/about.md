@@ -10,6 +10,8 @@ redirect_from:
 
 \"Shut up, Terry.\" --Futurama
 ===
+This might not be the world of tomorrow, but it is the world of my research. As I publish, give talks, and provide other contributions to the world of science, I will add them to this site. Having only started my research career in 2017, I am just a youngling. Even still, I have gotten to work on very interesting research. My advisor, [Monica Nicolescu](https://www.cse.unr.edu/~monica/), has taken me under her wing and given me a place to explore intent recognition in social robotics. With her guidance and that of other faculty at UNR I aim to get my PhD wings and fly into the wide world of research.
+Thank you for taking an interest in this site and my research as a whole.
 
 
 
