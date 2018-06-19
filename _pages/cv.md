@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
+* M.S. in Computer Science and Engineering
+  * University of Nevada, Reno; _May 2019_ (expected)
 * B.S. in Applied Mathematics
   * Minors: Computer Science, English Writing
   * University of Nevada, Reno; Cum Laude; GPA 3.946; _Dec 2016_
+
 * B.S. in Github, Github University, 2012
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
