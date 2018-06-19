@@ -17,25 +17,31 @@ Education
   * Minors: Computer Science, English Writing
   * University of Nevada, Reno; Cum Laude; GPA 3.946; _Dec 2016_
 
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: REU Mentor
+  * University of Nevada, Reno
+  * Responsible for guiding REU students in independent research tasks. Tasks include providing critiques and information on good research techniques as well as advising on coding practices on a weekly basis.
+  * Supervisors: [Monica Nicolescu](https://www.cse.unr.edu/~monica/) and [David Feil-Seifer](https://www.cse.unr.edu/~dave/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2017 - Current: Graduate Research Assistant
+  * UNR SARG LAB
+  * Contucting research in intent recognition for social navigation.
+  * Required Skills: C++, Python, ROS, Gazebo, stochastic models, data analysis and filtering, and knowledge of current HRI research.
+  * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
+* Fall 2015 - Spring 2016: Math Tutor
+  * UNR Math Center
+  * Tutoring undergraduate students in a wide range of math topics from remedial algebra to partial differential equations.
+  * Required Skills: Basic math to partial differential equations, tutoring, communication, and reforming ideas in understandable ways.
+  * Supervisor: [Danelle Clarke](ddclarke@unr.edu)
+
 Skills
 ======
-* Skill 1
+* Programming:
+  * C++, Python, ROS, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
+* Topics:
+  
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
