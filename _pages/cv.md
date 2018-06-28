@@ -17,6 +17,12 @@ Education
   * Minors: Computer Science, English Writing
   * University of Nevada, Reno; Cum Laude; GPA 3.946; _Dec 2016_
 
+Honors and Awards
+======
+* Dec. 2016 Westfall Scholar
+* 2011-2016 Dean's List
+* 2011-2015 Millenium Scholarship
+
 Work experience
 ======
 * Summer 2018: REU Mentor
@@ -40,7 +46,8 @@ Skills
 ======
 * Programming:
   * C++, Python, ROS, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
-* Topics: Reinforcement Learning, Genetic Algorithms, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, and Baxter Robot.
+* Topics: 
+  * Reinforcement Learning, Genetic Algorithms, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, and Baxter Robot.
 
 Publications
 ======
@@ -48,19 +55,22 @@ No publications as of June 2018.
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2017 -- Mentored a high school student in robotics several times a week. Managed weekly tasks and guided the student’s progress. Demonstrated principles of robotic design as well oversaw the implementation of the student’s project.
+* 2017-2018 -- Robotics lab tours and demostrations to the public. Talked about the various research done in the UNR SARG lab as well as answered questions about the robots and the research.
+* 2015-2016 -- Vice president of the UNR Math Club. Planned and managed public events for the advancement of interests in mathematics. Math club events ranged from movie nights to guest lectures. Took the club from an idea into a group of 30+ with growing membership.
+
