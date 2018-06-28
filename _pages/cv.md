@@ -15,7 +15,7 @@ Education
   * University of Nevada, Reno; _May 2019_ (expected)
 * B.S. in Applied Mathematics
   * Minors: Computer Science, English Writing
-  * University of Nevada, Reno; Cum Laude; GPA 3.946; _Dec 2016_
+  * University of Nevada, Reno; *Cum Laude*; GPA 3.946; _Dec 2016_
 
 Honors and Awards
 ======
