@@ -40,7 +40,7 @@ Skills
 ======
 * Programming:
   * C++, Python, ROS, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
-* Topics:
+* Topics: Reinforcement Learning, Genetic Algorithms, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, and Baxter Robot.
   
 * Skill 2
   * Sub-skill 2.1
