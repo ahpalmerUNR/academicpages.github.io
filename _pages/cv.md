@@ -45,9 +45,9 @@ Work experience
 Skills
 ======
 * Programming:
-  * C++, Python, ROS, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
+  * C++, Python, ROS, Flex, Bison, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
 * Topics: 
-  * Reinforcement Learning, Genetic Algorithms, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, and Baxter Robot.
+  * Reinforcement Learning, Genetic Algorithms, Compiler Construction, Machine Learning, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, Pioneer 3dx, NAO Robot, and Baxter Robot.
 
 Publications
 ======
