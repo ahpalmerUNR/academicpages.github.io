@@ -70,7 +70,7 @@ Talks
   
 Service and leadership
 ======
-* Fall 2018 -- Oversaw 5 undergraduate students conducting research for my HRI Approach Behavior study. Trained students how to proctor participants as well as manuver the robot into position for each trial.
+* Fall 2018 -- Oversaw 5 undergraduate students conducting research for my HRI Approach Behavior study. Trained students how to proctor participants as well as manuver the robot into position and run experiment code for each trial.
 * 2017-2018 -- Mentored 2 high school student in robotics several times a week. Managed weekly tasks and guided the student’s progress. Demonstrated principles of robotic design as well oversaw the implementation of the student’s project.
 * 2017-2018 -- Robotics lab tours and demostrations to the public. Talked about the various research done in the UNR SARG lab as well as answered questions about the robots and the research.
 * 2015-2016 -- Vice president of the UNR Math Club. Planned and managed public events for the advancement of interests in mathematics. Math club events ranged from movie nights to guest lectures. Took the club from an idea into a group of 30+ with growing membership.
