@@ -6,7 +6,7 @@ excerpt: 'This study evaluated how a robot demonstrating a Theory of Mind (ToM) 
 date: 2019-10-01
 venue: 'RO-MAN'
 paperurl: 'https://rrl.cse.unr.edu/media/documents/2019/Stephanie_REU_Perceived_Intelligence_and_Animacy_in_Robots_1.pdf'
-citation: 'Stephanie Sturgeon, ANdrew Palmer, Janelle Blankenburg, and David Feil-Seifer. (2009). &quot;Perception of Social Intelligence in Robots Performing False-Belief Tasks.&quot; <i>to appear in the 28th IEEE International Conference on Robot and Human Interactive Communication – RO-MAN, New Delhi, India, October 2019</i>. 1(1).'
+citation: 'Stephanie Sturgeon, Andrew Palmer, Janelle Blankenburg, and David Feil-Seifer. (2009). &quot;Perception of Social Intelligence in Robots Performing False-Belief Tasks.&quot; <i>to appear in the 28th IEEE International Conference on Robot and Human Interactive Communication – RO-MAN, New Delhi, India, October 2019</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
