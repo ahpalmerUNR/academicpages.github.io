@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computer Science and Engineering
-  * University of Nevada, Reno; _May 2019_ (expected)
+  * University of Nevada, Reno; _In Progress_
 * B.S. in Applied Mathematics
   * Minors: Computer Science, English Writing
   * University of Nevada, Reno; *Cum Laude*; GPA 3.946; _Dec 2016_
@@ -25,15 +25,15 @@ Honors and Awards
 
 Work experience
 ======
-* Summer 2018: REU Mentor
+* Summer 2018, 2019: REU Mentor
   * University of Nevada, Reno
-  * Responsible for guiding REU students in independent research tasks. Tasks include providing critiques and information on good research techniques as well as advising on coding practices on a weekly basis.
+  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques as well as advising on coding practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
   * Supervisors: [Monica Nicolescu](https://www.cse.unr.edu/~monica/) and [David Feil-Seifer](https://www.cse.unr.edu/~dave/)
 
 * Fall 2017 - Current: Graduate Research Assistant
   * UNR SARG LAB
   * Contucting research in intent recognition for social navigation.
-  * Required Skills: C++, Python, ROS, Gazebo, stochastic models, data analysis and filtering, and knowledge of current HRI research.
+  * Required Skills: C++, Python, ROS, OpenCV, Pytorch, Cuda, Gazebo, stochastic models, data analysis and filtering, and knowledge of current HRI research.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
 * Fall 2015 - Spring 2016: Math Tutor
@@ -45,9 +45,9 @@ Work experience
 Skills
 ======
 * Programming:
-  * C++, Python, ROS, Flex, Bison, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
+  * C++, Python, ROS, OpenCV, Pytorch, Cuda, Flex, Bison, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
 * Topics: 
-  * Reinforcement Learning, Genetic Algorithms, Compiler Construction, Machine Learning, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, Pioneer 3dx, NAO Robot, and Baxter Robot.
+  * Computer Vision, Reinforcement Learning, Genetic Algorithms, Compiler Construction, Machine Learning, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, Pioneer 3dx, NAO Robot, and Baxter Robot.
 
 Publications
 ======
@@ -70,7 +70,8 @@ Talks
   
 Service and leadership
 ======
-* Fall 2017 -- Mentored a high school student in robotics several times a week. Managed weekly tasks and guided the student’s progress. Demonstrated principles of robotic design as well oversaw the implementation of the student’s project.
+* Fall 2018 -- Oversaw 5 undergraduate students conducting research for my HRI Approach Behavior study. Trained students how to proctor participants as well as manuver the robot into position for each trial.
+* 2017-2018 -- Mentored 2 high school student in robotics several times a week. Managed weekly tasks and guided the student’s progress. Demonstrated principles of robotic design as well oversaw the implementation of the student’s project.
 * 2017-2018 -- Robotics lab tours and demostrations to the public. Talked about the various research done in the UNR SARG lab as well as answered questions about the robots and the research.
 * 2015-2016 -- Vice president of the UNR Math Club. Planned and managed public events for the advancement of interests in mathematics. Math club events ranged from movie nights to guest lectures. Took the club from an idea into a group of 30+ with growing membership.
 
