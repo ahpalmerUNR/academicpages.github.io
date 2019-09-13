@@ -15,6 +15,7 @@ This might not be the world of tomorrow, but it is the world of my research. As 
 Current Work
 ------
 1. Intent recognition on the PR2 robot for use in social situations during path planning.
+1. Computer vision for human pose detection.
 1. Adaptive reinforcement learning.
 1. HRI research dealing with approach behavior.
 
