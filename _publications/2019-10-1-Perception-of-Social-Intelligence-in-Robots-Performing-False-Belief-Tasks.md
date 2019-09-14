@@ -1,7 +1,7 @@
 ---
 title: "Perception of Social Intelligence in Robots Performing False-Belief Tasks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2019-10-1-Perception-of-Social-Intelligence-in-Robots-Performing-False-Belief-Tasks
 excerpt: 'This study evaluated how a robot demonstrating a Theory of Mind (ToM) influenced human perception of social intelligence and animacy in a human-robot interaction. Data was gathered through an online survey where participants watched a video depicting a NAO robot either failing or passing the Sally-Anne false-belief task. Participants (N = 60) were randomly assigned to either the Pass or Fail condition. A Perceived Social Intelligence Survey and the Perceived Intelligence and Animacy subsections of the Godspeed Questionnaire were used as measures. The Godspeed was given before viewing the task to measure participant expectations, and again after to test changes in opinion. Our findings show that robots demonstrating ToM significantly increase perceived social intelligence, while robots demonstrating ToM deficiencies are perceived as less socially intelligent.'
 date: 2019-10-01
 venue: 'RO-MAN'
