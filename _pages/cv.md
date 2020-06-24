@@ -22,22 +22,29 @@ Education
 
 Honors and Awards
 ======
+* 2020-2021 Differential Fees Assistantship
 * Dec. 2016 Westfall Scholar
 * 2011-2016 Dean's List
 * 2011-2015 Millenium Scholarship
 
 Work experience
 ======
-* Summer 2018, 2019: REU Mentor
-  * University of Nevada, Reno
-  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques as well as advising on coding practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
-  * Supervisors: [Monica Nicolescu](https://www.cse.unr.edu/~monica/) and [David Feil-Seifer](https://www.cse.unr.edu/~dave/)
-
+* Summer 2020: Participant Innovation Summit Series
+  * Army Research Laboratory
+  * Constructing research goals for human-robot autonomous teaming.
+  * Required Skills: Knowledge of current HRI research, communication, team formation and emergent properties, and data analysis and filtering.
+  * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
+  
 * Fall 2017 - Current: Graduate Research Assistant
   * UNR SARG LAB
   * Constructing research in intent recognition for social navigation.
   * Required Skills: C++, Python, ROS, OpenCV, Pytorch, Cuda, Gazebo, stochastic models, data analysis and filtering, and knowledge of current HRI research.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
+  
+* Summer 2018, 2019: REU Mentor
+  * University of Nevada, Reno
+  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques as well as advising on coding practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
+  * Supervisors: [Monica Nicolescu](https://www.cse.unr.edu/~monica/) and [David Feil-Seifer](https://www.cse.unr.edu/~dave/)
   
 * Fall 2015 - Spring 2016: Math Tutor
   * UNR Math Center
