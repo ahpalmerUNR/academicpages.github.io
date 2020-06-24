@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science and Engineering
+* Ph.D. in Computer Science and Engineering
   * University of Nevada, Reno; _In Progress_
+* M.S. in Computer Science and Engineering
+  * University of Nevada, Reno; _May 2020_
+  * Thesis: _Person Profiles and Sensor Calibration for Intent Recognition in Socially Aware Navigation_
 * B.S. in Applied Mathematics
   * Minors: Computer Science, English Writing
   * University of Nevada, Reno; *Cum Laude*; GPA 3.946; _Dec 2016_
