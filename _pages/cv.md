@@ -31,7 +31,7 @@ Work experience
 ======
 * Summer 2020: Participant Innovation Summit Series
   * Army Research Laboratory
-  * Constructing research goals for human-robot autonomous teaming.
+  * Constructing research goals for human-robot autonomous teaming. Wrote programs to detect people's location and intention within the 3D space around a PR2 robot.
   * Required Skills: Knowledge of current HRI research, communication, team formation and emergent properties, and data analysis and filtering.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
