@@ -31,13 +31,13 @@ Work experience
 ======
 * Summer 2020: Participant Innovation Summit Series
   * Army Research Laboratory
-  * Constructing research goals for human-robot autonomous teaming. Wrote programs to detect people's location and intention within the 3D space around a PR2 robot.
+  * Constructing research goals for human-robot autonomous teaming.
   * Required Skills: Knowledge of current HRI research, communication, team formation and emergent properties, and data analysis and filtering.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
 * Fall 2017 - Current: Graduate Research Assistant
   * UNR SARG LAB
-  * Constructing research in intent recognition for social navigation.
+  * Constructing research in intent recognition for social navigation. Wrote programs to detect people's location and intention within the 3D space around a PR2 robot.
   * Required Skills: C++, Python, ROS, OpenCV, Pytorch, Cuda, Gazebo, stochastic models, data analysis and filtering, and knowledge of current HRI research.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
