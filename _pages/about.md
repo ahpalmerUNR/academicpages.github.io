@@ -10,16 +10,17 @@ redirect_from:
 
 \"Shut up, Terry.\" --Futurama
 ===
-This might not be the world of tomorrow, but it is the world of my research. As I publish, give talks, and provide other contributions to the world of science, I will add them to this site. Having only started my research career in 2017, I am just a youngling. Even still, I have gotten to work on very interesting projects and grants. My advisor, [Monica Nicolescu](https://www.cse.unr.edu/~monica/), has taken me under her wing and given me a place to explore intent recognition in social robotics. With her guidance and that of other faculty at UNR I aim to get my PhD wings and fly into the wide world of research.
+Though I am an avid fan of Futurama, I know that getting to the future we imagine in shows like that is more difficult than can be portrayed in half an hour. I have worked hard in my research to tackle interesting problems that related directly toward making people's lives better. I started graduate school in 2017 and immediately found an advisor that could guide me in research to accomplish my goals. My advisor, [Monica Nicolescu](https://www.cse.unr.edu/~monica/), has took me under her wing and has given me a place to explore Intent Recognition in social robotics. While working in the world of Intent Recognition I have gotten to explore so many interesting research topics in Computer Vision, Machine Learning, Neural Networks, Calibration, and People Tracking. As I search for work in industry, I move forward remembering my true goal of helping people with the work I do.
 
 Current Work
 ------
-1. Intent recognition on the PR2 robot for use in social situations during path planning.
+1. Intent Recognition for use in Socially Aware Robotics.
 1. Computer vision for human pose detection.
-1. Adaptive reinforcement learning.
+1. Minimalistic Convolutional Neural Networks.
+1. Adaptive Reinforcement Learning.
 1. HRI research dealing with approach behavior.
 
-Thank you for taking an interest in this site and my research as a whole.
+Thank you for taking an interest in my research.
 
 
 
