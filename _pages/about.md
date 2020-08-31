@@ -15,10 +15,9 @@ Though I am an avid fan of Futurama, I know that getting to the future we imagin
 Current Work
 ------
 1. Intent Recognition for use in Socially Aware Robotics.
-1. Computer vision for human pose detection.
+1. Computer Vision for human pose detection.
 1. Minimalistic Convolutional Neural Networks.
 1. Adaptive Reinforcement Learning.
-1. HRI research dealing with approach behavior.
 
 Thank you for taking an interest in my research.
 
