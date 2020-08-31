@@ -43,7 +43,7 @@ Work experience
   
 * Summer 2018, 2019: REU Mentor
   * SARG LAB at University of Nevada, Reno
-  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques, helping students find relavent research papers, teaching undergraduates how to manage research and course work, and advised students on coding best practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
+  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques, helping students find relevant research papers, teaching undergraduates how to manage research and course work, and advised students on coding best practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
   * Skills: C++, Python, ROS, Git, data analysis, and knowledge of current HRI research.
   * Supervisors: [Monica Nicolescu](https://www.cse.unr.edu/~monica/) and [David Feil-Seifer](https://www.cse.unr.edu/~dave/)
   
