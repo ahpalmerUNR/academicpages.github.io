@@ -14,7 +14,7 @@ Education
 * Ph.D. in Computer Science and Engineering
   * University of Nevada, Reno; _In Progress_
 * M.S. in Computer Science and Engineering
-  * University of Nevada, Reno; _May 2020_
+  * University of Nevada, Reno; GPA 3.967; _May 2020_
   * Thesis: _Person Profiles and Sensor Calibration for Intent Recognition in Socially Aware Navigation_
 * B.S. in Applied Mathematics
   * Minors: Computer Science, English Writing
@@ -30,34 +30,35 @@ Honors and Awards
 Work experience
 ======
 * Summer 2020: Participant Innovation Summit Series
-  * Army Research Laboratory
-  * Constructing research goals for human-robot autonomous teaming.
+  * Remote Participation at Army Research Laboratory/University of Nevada, Reno
+  * Participated in weekly meetings to discuss potential research projects in human-robot teaming. Supported efforts by PIs in seeking grant funding by discussing prior research methodologies and systems. 
   * Required Skills: Knowledge of current HRI research, communication, team formation and emergent properties, and data analysis and filtering.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
 * Fall 2017 - Current: Graduate Research Assistant
-  * UNR SARG LAB
-  * Constructing research in intent recognition for social navigation. Wrote programs to detect people's location and intention within the 3D space around a PR2 robot.
-  * Required Skills: C++, Python, ROS, OpenCV, Pytorch, Cuda, Gazebo, stochastic models, data analysis and filtering, and knowledge of current HRI research.
+  * SARG LAB at University of Nevada, Reno
+  * Conducting research in intent recognition for social navigation. Wrote programs to calibrate sensors, detect and track people in 3D space from 2D sensors, and determine intent of people within view using Neural Networks trained on collected data. Replication of published methods in RL, GA's, ML, and CV also required while conducting research. General maintence and care of the PR2 robot also included in assigned tasks.
+  * Required Skills: C++, Python, ROS, OpenCV, Pytorch, Cuda, Gazebo, stochastic models, data analysis, filtering, and knowledge of current HRI research.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
 * Summer 2018, 2019: REU Mentor
-  * University of Nevada, Reno
-  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques as well as advising on coding practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
+  * SARG LAB at University of Nevada, Reno
+  * Responsible for guiding 7 REU students, over both years, in independent research tasks. Tasks include providing critiques and information on good research techniques, helping students find relavent research papers, teaching undergraduates how to manage research and course work, and advised students on coding best practices on a weekly basis. Two of these students have had their work accepted at Humanoids and RO-MAN.
+  * Skills: C++, Python, ROS, Git, data analysis, and knowledge of current HRI research.
   * Supervisors: [Monica Nicolescu](https://www.cse.unr.edu/~monica/) and [David Feil-Seifer](https://www.cse.unr.edu/~dave/)
   
 * Fall 2015 - Spring 2016: Math Tutor
-  * UNR Math Center
-  * Tutoring undergraduate students in a wide range of math topics from remedial algebra to partial differential equations.
-  * Required Skills: Basic math to partial differential equations, tutoring, communication, and reforming ideas in understandable ways.
+  * Math Center at University of Nevada, Reno
+  * Tutoring undergraduate students in a wide range of math topics from remedial algebra to partial differential equations. Conducting group study sessions in preparation for midterms and finals across all levels of mathematics. Maintaining a constructive learning environment for large groups of students. Understanding student needs across a student body with varying abilities and skillsets.
+  * Required Skills: Basic math to partial differential equations, tutoring, communication, problem solving, and speaking.
   * Supervisor: [Danelle Clarke](ddclarke@unr.edu)
 
 Skills
 ======
 * Programming:
-  * C++, Python, ROS, OpenCV, Pytorch, Cuda, Flex, Bison, Linux, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
+  * C++, Python, ROS, OpenCV, Pytorch, Git, Linux/Unix, ubuntu, Latex, DEAP, Matlab, R, Visual Studio
 * Topics: 
-  * Computer Vision, Reinforcement Learning, Genetic Algorithms, Compiler Construction, Machine Learning, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, Pioneer 3dx, NAO Robot, and Baxter Robot.
+  * Computer Vision, Reinforcement Learning, Genetic Algorithms, Machine Learning, Neural Networks, Single and Multivariable Optimization, Partial and Ordinary Differential Equations, Probability Theory, Math Modeling, Human Robot Interaction, PR2 Robot, Pioneer 3dx, NAO Robot, and Baxter Robot.
 
 Publications
 ======
