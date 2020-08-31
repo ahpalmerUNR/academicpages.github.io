@@ -49,7 +49,7 @@ Work experience
   
 * Fall 2015 - Spring 2016: Math Tutor
   * Math Center at University of Nevada, Reno
-  * Tutoring undergraduate students in a wide range of math topics from remedial algebra to partial differential equations. Conducting group study sessions in preparation for midterms and finals across all levels of mathematics. Maintaining a constructive learning environment for large groups of students. Understanding student needs across a student body with varying abilities and skillsets.
+  * Tutoring undergraduate students in a wide range of math topics from remedial algebra to partial differential equations. Conducting group study sessions in preparation for midterms and finals across all levels of mathematics. Maintaining a constructive learning environment for large groups of students. Understanding student needs across a student body with varying abilities and skill sets.
   * Required Skills: Basic math to partial differential equations, tutoring, communication, problem solving, and speaking.
   * Supervisor: [Danelle Clarke](ddclarke@unr.edu)
 
