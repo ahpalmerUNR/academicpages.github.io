@@ -37,7 +37,7 @@ Work experience
   
 * Fall 2017 - Current: Graduate Research Assistant
   * SARG LAB at University of Nevada, Reno
-  * Conducting research in intent recognition for social navigation. Wrote programs to calibrate sensors, detect and track people in 3D space from 2D sensors, and determine intent of people within view using Neural Networks trained on collected data. Replication of published methods in RL, GA's, ML, and CV also required while conducting research. General maintence and care of the PR2 robot also included in assigned tasks.
+  * Conducting research in intent recognition for social navigation. Wrote programs to calibrate sensors, detect and track people in 3D space from 2D sensors, and determine intent of people within view using Neural Networks trained on collected data. Replication of published methods in RL, GA's, ML, and CV also required while conducting research. General maintenance and care of the PR2 robot also included in assigned tasks.
   * Required Skills: C++, Python, ROS, OpenCV, Pytorch, Cuda, Gazebo, stochastic models, data analysis, filtering, and knowledge of current HRI research.
   * Supervisor: [Monica Nicolescu](https://www.cse.unr.edu/~monica/)
   
