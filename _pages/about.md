@@ -21,7 +21,7 @@ Current Work
 
 Recently Published
 ------
-1. Simple Camera-to-2D-LiDAR Calibration Method for General Use (Accepted ISVC '20)
+1. Simple Camera-to-2D-LiDAR Calibration Method for General Use (Accepted ISVC 2020)
 1. Person Profiles and Sensor Calibration for Intent Recognition in Socially Aware Navigation (May 2020)
 1. Learning of Complex-Structured Tasks from Verbal Instruction (October 2019 Humanoids)
 1. Perception of Social Intelligence in Robots Performing False-Belief Tasks (October 2019 RO-MAN)
